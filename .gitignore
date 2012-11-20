@@ -1,0 +1,5 @@
+.*
+/build/coverage
+/build/logs
+/etc/config.json
+/phpunit.xml
